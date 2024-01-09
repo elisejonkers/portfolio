@@ -2,32 +2,56 @@
   "projects": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "title": "I-do-planner",
+      "description": "Create the right description for the I-do-planner"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "title": "HappenHub",
+      "description": "Create the right description for the HappenHub"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "title": "Beach Clean Up Game",
+      "description": "Create the right description for the Beach Clean Up Game"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "JavaScript"
+    },
+    {
+      "id": 2,
+      "name": "HTML5"
+    },
+    {
+      "id": 3,
+      "name": "CSS"
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "name": "Senior KYC analyst",
+      "description": "This should be the job description"
+    },
+    {
+      "id": 2,
+      "name": "Customer Service Zilveren Kruis",
+      "description": "test"
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "name": "Ironhack Bootcamp",
+      "description": "An intense WebDev Bootcamp"
+    },
+    {
+      "id": 2,
+      "name": "Master Criminology",
+      "description": "A master of Science of the VU Amsterdam"
     }
   ]
 }
