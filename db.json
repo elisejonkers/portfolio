@@ -2,18 +2,28 @@
   "projects": [
     {
       "id": 1,
-      "title": "I-do-planner",
-      "description": "Create the right description for the I-do-planner"
+      "name": "I-do-planner",
+      "description": "Create the right description for the I-do-planner",
+      "technologies": ["JavaScript", "HTML"],
+      "URL": "https://i-do-planner.netlify.app/login",
+      "image": "this will be the image"
     },
     {
       "id": 2,
-      "title": "HappenHub",
-      "description": "Create the right description for the HappenHub"
+      "name": "HappenHub",
+      "description": "Create the right description for the HappenHub",
+      "technologies": ["JavaScript", "HTML"],
+      "URL": "https://effervescent-capybara-cdf4df.netlify.app/",
+      "image": "this will be the image"
+      
     },
     {
       "id": 3,
-      "title": "Beach Clean Up Game",
-      "description": "Create the right description for the Beach Clean Up Game"
+      "name": "Beach Clean Up Game",
+      "description": "Create the right description for the Beach Clean Up Game",
+      "technologies": ["JavaScript", "HTML"],
+      "URL": "https://elisejonkers.github.io/game-module1/",
+      "image": "this will be the image"
     }
   ],
   "skills": [
@@ -28,7 +38,76 @@
     {
       "id": 3,
       "name": "CSS"
+    },
+    {
+      "id": 4,
+      "name": "ReactJS"
+    },
+    {
+      "id": 5,
+      "name": "NodeJS"
+    },
+    {
+      "id": 6,
+      "name": "ExpressJS"
+    },
+    {
+      "id": 7,
+      "name": "MongoDB"
+    },
+    {
+      "id": 8,
+      "name": "Rest API"
+    },
+    {
+      "id": 9,
+      "name": "Axios"
+    },
+    {
+      "id": 10,
+      "name": "Git"
+    },
+    {
+      "id": 11,
+      "name": "GitHub"
+    },
+    {
+      "id": 12,
+      "name": "Mongoose"
+    },
+    {
+      "id": 14,
+      "name": "Agile Methodologies"
+    },
+    {
+      "id": 15,
+      "name": "MERN-stack"
+    },
+    {
+      "id": 16,
+      "name": "Constructive Feedback"
+    },
+    {
+      "id": 17,
+      "name": "Analytical Skills"
+    },
+    {
+      "id": 18,
+      "name": "Problem-solving Thinking"
+    },
+    {
+      "id": 19,
+      "name": "Growth mindset"
+    },
+    {
+      "id": 20,
+      "name": "Organization"
+    },
+    {
+      "id": 21,
+      "name": "Attention to detail"
     }
+
   ],
   "experiences": [
     {
