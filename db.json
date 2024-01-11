@@ -144,13 +144,24 @@
   "education": [
     {
       "id": 1,
-      "name": "Ironhack Bootcamp",
-      "description": "An intense WebDev Bootcamp"
+      "title": "Full-stack Development Bootcamp",
+      "school": "Ironhack",
+      "date": "Oct 2023 - Dec 2023",
+      "description": "10-week intense Bootcamp (+ 520 hours) executed in 3 modules: /n- Module 1: frontend development using HTML, CSS, JavaScript and Object-oriented programming. The module was evaluated by the development of a game using OOP. /n- Module 2: introduction to React.js and the first steps to backend (API, axios, Node.js). The module was evaluated by the developent of an app using CRUD operations. /n- Module 3: introduction to Express.js, MongoDB and Mongoose. The module was evaluated by creating a full-stack app. /nProject 2 and 3 were executed in pairs (pair-programming), as well using Git and GitHub. During the Bootcamp we got an introduction to the Agile Way of Working | Scrum."
     },
     {
       "id": 2,
-      "name": "Master Criminology",
-      "description": "A master of Science of the VU Amsterdam"
+      "title": "Master of Science, Criminology",
+      "school": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+      "date": "Sep 2015 - Apr 2017",
+      "description": ""
+    },
+    {
+      "id": 3,
+      "title": "Bachelor of Science, Sociology",
+      "school": "University of Groningen",
+      "date": "Sep 2012 - Jul 2015",
+      "description": ""
     }
   ]
 }
