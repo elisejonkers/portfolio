@@ -29,83 +29,103 @@
   "skills": [
     {
       "id": 1,
-      "name": "JavaScript"
+      "name": "JavaScript",
+      "type": "hard"
     },
     {
       "id": 2,
-      "name": "HTML5"
+      "name": "HTML5",
+      "type": "hard"
     },
     {
       "id": 3,
-      "name": "CSS"
+      "name": "CSS",
+      "type": "hard"
     },
     {
       "id": 4,
-      "name": "ReactJS"
+      "name": "ReactJS",
+      "type": "hard"
     },
     {
       "id": 5,
-      "name": "NodeJS"
+      "name": "NodeJS",
+      "type": "hard"
     },
     {
       "id": 6,
-      "name": "ExpressJS"
+      "name": "ExpressJS",
+      "type": "hard"
     },
     {
       "id": 7,
-      "name": "MongoDB"
+      "name": "MongoDB",
+      "type": "hard"
     },
     {
       "id": 8,
-      "name": "Rest API"
+      "name": "Rest API",
+      "type": "hard"
     },
     {
       "id": 9,
-      "name": "Axios"
+      "name": "Axios",
+      "type": "hard"
     },
     {
       "id": 10,
-      "name": "Git"
+      "name": "Git",
+      "type": "hard"
     },
     {
       "id": 11,
-      "name": "GitHub"
+      "name": "GitHub",
+      "type": "hard"
     },
     {
       "id": 12,
-      "name": "Mongoose"
+      "name": "Mongoose",
+      "type": "hard"
     },
     {
       "id": 14,
-      "name": "Agile Methodologies"
+      "name": "Agile Methodologies",
+      "type": "soft"
     },
     {
       "id": 15,
-      "name": "MERN-stack"
+      "name": "MERN-stack",
+      "type": "hard"
     },
     {
       "id": 16,
-      "name": "Constructive Feedback"
+      "name": "Constructive Feedback",
+      "type": "soft"
     },
     {
       "id": 17,
-      "name": "Analytical Skills"
+      "name": "Analytical Skills",
+      "type": "soft"
     },
     {
       "id": 18,
-      "name": "Problem-solving Thinking"
+      "name": "Problem-solving Thinking",
+      "type": "soft"
     },
     {
       "id": 19,
-      "name": "Growth mindset"
+      "name": "Growth mindset",
+      "type": "soft"
     },
     {
       "id": 20,
-      "name": "Organization"
+      "name": "Organization",
+      "type": "soft"
     },
     {
       "id": 21,
-      "name": "Attention to detail"
+      "name": "Attention to detail",
+      "type": "soft"
     }
 
   ],
