@@ -133,7 +133,9 @@
     {
       "id": 1,
       "name": "Senior KYC analyst",
-      "description": "This should be the job description"
+      "company": "ING Netherlands",
+      "date": "Apr 2018 - Jul 2022",
+      "description": "Member of a self-organizing team: /n /n - Investigating FEC risks for private individual customers"
     },
     {
       "id": 2,
@@ -147,14 +149,15 @@
       "title": "Full-stack Development Bootcamp",
       "school": "Ironhack",
       "date": "Oct 2023 - Dec 2023",
-      "description": "10-week intense Bootcamp (+ 520 hours) executed in 3 modules: /n- Module 1: frontend development using HTML, CSS, JavaScript and Object-oriented programming. The module was evaluated by the development of a game using OOP. /n- Module 2: introduction to React.js and the first steps to backend (API, axios, Node.js). The module was evaluated by the developent of an app using CRUD operations. /n- Module 3: introduction to Express.js, MongoDB and Mongoose. The module was evaluated by creating a full-stack app. /nProject 2 and 3 were executed in pairs (pair-programming), as well using Git and GitHub. During the Bootcamp we got an introduction to the Agile Way of Working | Scrum."
+      "description": "10-week intense Bootcamp (+ 520 hours) executed in 3 modules:\n\n- Module 1: frontend development using HTML, CSS, JavaScript and Object-oriented programming. The module was evaluated by the development of a game using OOP.\n\n- Module 2: introduction to React.js and the first steps to backend (API, axios, Node.js). The module was evaluated by the developent of an app using CRUD operations.\n\n- Module 3: introduction to Express.js, MongoDB and Mongoose. The module was evaluated by creating a full-stack app.\n\nProject 2 and 3 were executed in pairs (pair-programming), as well using Git and GitHub. During the Bootcamp we got an introduction to the Agile Way of Working | Scrum."
+      
     },
     {
       "id": 2,
       "title": "Master of Science, Criminology",
       "school": "Vrije Universiteit Amsterdam (VU Amsterdam)",
       "date": "Sep 2015 - Apr 2017",
-      "description": ""
+      "description": "This is a multiline\ndescription.\nEach line will be on a separate line when displayed."
     },
     {
       "id": 3,
