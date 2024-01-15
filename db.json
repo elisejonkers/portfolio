@@ -3,27 +3,30 @@
     {
       "id": 1,
       "name": "I-do-planner",
+      "oneliner": "Full stack web application where users can plan a wedding using different tools.",
       "description": "Create the right description for the I-do-planner",
       "technologies": ["JavaScript", "HTML"],
       "URL": "https://i-do-planner.netlify.app/login",
-      "image": "this will be the image"
+      "image": "I-do-planner.png"
     },
     {
       "id": 2,
       "name": "HappenHub",
+      "oneliner": "Application to help you organize your meetings within a group.",
       "description": "Create the right description for the HappenHub",
       "technologies": ["JavaScript", "HTML"],
       "URL": "https://effervescent-capybara-cdf4df.netlify.app/",
-      "image": "this will be the image"
+      "image": "HappenHub.png"
       
     },
     {
       "id": 3,
       "name": "Beach Clean Up Game",
+      "oneliner": "A click game with increasing levels where the user has to click one specific object, but should avoid another object.",
       "description": "Create the right description for the Beach Clean Up Game",
       "technologies": ["JavaScript", "HTML"],
       "URL": "https://elisejonkers.github.io/game-module1/",
-      "image": "this will be the image"
+      "image": "CleanUpGame.png"
     }
   ],
   "skills": [
@@ -129,40 +132,40 @@
     }
 
   ],
-  "experiences": [
-    {
-      "id": 1,
-      "name": "Senior KYC analyst",
-      "company": "ING Netherlands",
-      "date": "Apr 2018 - Jul 2022",
-      "description": "Member of a self-organizing team: /n /n - Investigating FEC risks for private individual customers"
-    },
-    {
-      "id": 2,
-      "name": "Customer Service Zilveren Kruis",
-      "description": "test"
-    }
-  ],
-  "education": [
+  "timelineitems": [
     {
       "id": 1,
       "title": "Full-stack Development Bootcamp",
-      "school": "Ironhack",
+      "company": "Ironhack",
       "date": "Oct 2023 - Dec 2023",
-      "description": "10-week intense Bootcamp (+ 520 hours) executed in 3 modules:\n\n- Module 1: frontend development using HTML, CSS, JavaScript and Object-oriented programming. The module was evaluated by the development of a game using OOP.\n\n- Module 2: introduction to React.js and the first steps to backend (API, axios, Node.js). The module was evaluated by the developent of an app using CRUD operations.\n\n- Module 3: introduction to Express.js, MongoDB and Mongoose. The module was evaluated by creating a full-stack app.\n\nProject 2 and 3 were executed in pairs (pair-programming), as well using Git and GitHub. During the Bootcamp we got an introduction to the Agile Way of Working | Scrum."
+      "description": "10-week intense Bootcamp (+ 520 hours) executed in 3 modules:- Module 1: frontend development using HTML, CSS, JavaScript and Object-oriented programming. The module was evaluated by the development of a game using OOP.\n\n- Module 2: introduction to React.js and the first steps to backend (API, axios, Node.js). The module was evaluated by the developent of an app using CRUD operations.\n\n- Module 3: introduction to Express.js, MongoDB and Mongoose. The module was evaluated by creating a full-stack app.\n\nProject 2 and 3 were executed in pairs (pair-programming), as well using Git and GitHub. During the Bootcamp we got an introduction to the Agile Way of Working | Scrum."
       
     },
     {
       "id": 2,
-      "title": "Master of Science, Criminology",
-      "school": "Vrije Universiteit Amsterdam (VU Amsterdam)",
-      "date": "Sep 2015 - Apr 2017",
-      "description": "This is a multiline\ndescription.\nEach line will be on a separate line when displayed."
+      "title": "Senior KYC analyst",
+      "company": "ING Netherlands",
+      "date": "Apr 2018 - Jul 2022",
+      "description": "Member of a self-organizing team - Investigating FEC risks for private individual customers"
     },
     {
       "id": 3,
+      "title": "Customer Service Zilveren Kruis",
+      "company": "WebHelp",
+      "date": "Oct 2017 - April 2018",
+      "description": "Customer service"
+    },
+    {
+      "id": 4,
+      "title": "Master of Science, Criminology",
+      "company": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+      "date": "Sep 2015 - Apr 2017",
+      "description": ""
+    },
+    {
+      "id": 5,
       "title": "Bachelor of Science, Sociology",
-      "school": "University of Groningen",
+      "company": "University of Groningen",
       "date": "Sep 2012 - Jul 2015",
       "description": ""
     }
