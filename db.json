@@ -2,10 +2,10 @@
   "projects": [
     {
       "id": 1,
-      "name": "I-do-planner",
+      "name": "I Do planner",
       "oneliner": "Full stack web application where users can plan a wedding using different tools.",
-      "description": "Create the right description for the I-do-planner",
-      "technologies": ["JavaScript", "HTML"],
+      "description": "I Do Planner is a Wedding Organizer and it’s the ultimate solution for effortlessly crafting the perfect wedding day. The app is provided a suite of powerful tools to make your most important day easier to organize. I Do Planner is a full stack application (MERN) created in pairs for the final project of the Ironhack Bootcamp.",
+      "technologies": ["JavaScript", "ReactJS", "ExpressJS", "NodeJS", "HTML", "CSS", "DaisyUI", "MongoDB", "Axios", "Rest API"],
       "URL": "https://i-do-planner.netlify.app/login",
       "image": "I-do-planner.png"
     },
@@ -13,8 +13,8 @@
       "id": 2,
       "name": "HappenHub",
       "oneliner": "Application to help you organize your meetings within a group.",
-      "description": "Create the right description for the HappenHub",
-      "technologies": ["JavaScript", "HTML"],
+      "description": "HappenHub is the perfect app to organize your unorganized group. Within your group it's easy to create, delete or update your appointment. Add the location and add your guest and it results in a clear overview. The app is developed in pairs for the second project of the Ironhack Bootcamp, using the technologies as followed.",
+      "technologies": ["JavaScript", "ReactJS", "Rest API", "Axios", "NodeJS", "HTML", "CSS"],
       "URL": "https://effervescent-capybara-cdf4df.netlify.app/",
       "image": "HappenHub.png"
       
@@ -23,8 +23,8 @@
       "id": 3,
       "name": "Beach Clean Up Game",
       "oneliner": "A click game with increasing levels where the user has to click one specific object, but should avoid another object.",
-      "description": "Create the right description for the Beach Clean Up Game",
-      "technologies": ["JavaScript", "HTML"],
+      "description": "The Beach Clean Up Game is developed for young and old, with a small side note. As soon as you see trash on the beach, you should click it. But be careful because when you click on the racoon the trash will spread again! The game is played by only clicking on the objects. After every 10 seconds you will increase a level and the objects will come faster and faster.",
+      "technologies": ["JavaScript", "HTML", "CSS", "OOP"],
       "URL": "https://elisejonkers.github.io/game-module1/",
       "image": "CleanUpGame.png"
     }
@@ -92,13 +92,13 @@
     },
     {
       "id": 14,
-      "name": "Agile Methodologies",
-      "type": "soft"
+      "name": "MERN-stack",
+      "type": "hard"
     },
     {
       "id": 15,
-      "name": "MERN-stack",
-      "type": "hard"
+      "name": "Agile Methodologies",
+      "type": "soft"
     },
     {
       "id": 16,
@@ -146,14 +146,14 @@
       "title": "Senior KYC analyst",
       "company": "ING Netherlands",
       "date": "Apr 2018 - Jul 2022",
-      "description": "Member of a self-organizing team - Investigating FEC risks for private individual customers"
+      "description": "Member of an Agile team, where I learned to be a good team player as well as work independently. During this period I have learned to handle and analyze complex files and customer profiles using various resources. After one year I got promoted to signatory. With this role I was responsible of the quality control of the files of the other team members. Besides that I have been mentoring junior analysts with (complex) files. From September 2021 until July 2022 I was part of a project to outsource tasks. During this period we implemented the training and quality control of the team members."
     },
     {
       "id": 3,
       "title": "Customer Service Zilveren Kruis",
       "company": "WebHelp",
-      "date": "Oct 2017 - April 2018",
-      "description": "Customer service"
+      "date": "Oct 2017 - Apr 2018",
+      "description": "Customer Service. I was both responsible for advising people about their health insurance or change their health insurance."
     },
     {
       "id": 4,
