@@ -7,7 +7,7 @@
       "description": "I Do Planner is a Wedding Organizer and it’s the ultimate solution for effortlessly crafting the perfect wedding day. The app is provided a suite of powerful tools to make your most important day easier to organize. I Do Planner is a full stack application (MERN) created in pairs for the final project of the Ironhack Bootcamp.",
       "technologies": ["JavaScript", "ReactJS", "ExpressJS", "NodeJS", "HTML", "CSS", "DaisyUI", "MongoDB", "Axios", "Rest API"],
       "URL": "https://i-do-planner.netlify.app/login",
-      "image": "I-do-planner.png"
+      "image": "../src/assets/I-do-planner.png"
     },
     {
       "id": 2,
