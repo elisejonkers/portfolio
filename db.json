@@ -37,56 +37,61 @@
     },
     {
       "id": 2,
-      "name": "HTML5",
+      "name": "TypeScript",
       "type": "hard"
     },
     {
       "id": 3,
-      "name": "CSS",
+      "name": "HTML5",
       "type": "hard"
     },
     {
       "id": 4,
-      "name": "ReactJS",
+      "name": "CSS",
       "type": "hard"
     },
     {
       "id": 5,
-      "name": "NodeJS",
+      "name": "ReactJS",
       "type": "hard"
     },
     {
       "id": 6,
-      "name": "ExpressJS",
+      "name": "NodeJS",
       "type": "hard"
     },
     {
       "id": 7,
-      "name": "MongoDB",
+      "name": "ExpressJS",
       "type": "hard"
     },
     {
       "id": 8,
-      "name": "Rest API",
+      "name": "MongoDB",
       "type": "hard"
     },
     {
       "id": 9,
-      "name": "Axios",
+      "name": "Rest API",
       "type": "hard"
     },
     {
       "id": 10,
-      "name": "Git",
+      "name": "Axios",
       "type": "hard"
     },
     {
       "id": 11,
-      "name": "GitHub",
+      "name": "Git",
       "type": "hard"
     },
     {
       "id": 12,
+      "name": "GitHub",
+      "type": "hard"
+    },
+    {
+      "id": 13,
       "name": "Mongoose",
       "type": "hard"
     },
