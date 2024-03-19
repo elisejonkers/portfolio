@@ -1,6 +1,14 @@
 {
   "projects": [
     {
+      "id": 4,
+      "name": "Little Moments",
+      "oneliner": "Application where you can capture the most important moments of your little ones.",
+      "description": "With Little Moments is easy to have all the most important of your little ones in one place. You can create, update or delete albums for each or your child. Within each album you can also create special moments. Add a picture to make it complete! Little Moments is an application that I have developed to get more familiar with skills like Bootstrap and TypeScript.",
+      "technologies": ["TypeScript", "ReactJS", "ExpressJS", "NodeJS", "HTML", "CSS", "Bootstrap", "MongoDB", "Axios", "Rest API"],
+      "URL": "https://little-moments-app.netlify.app/"
+    },
+    {
       "id": 1,
       "name": "I Do planner",
       "oneliner": "Full stack web application where users can plan a wedding using different tools.",
