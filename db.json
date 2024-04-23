@@ -75,71 +75,76 @@
     },
     {
       "id": 8,
-      "name": "MongoDB",
+      "name": "NestJS",
       "type": "hard"
     },
     {
       "id": 9,
-      "name": "Rest API",
+      "name": "MongoDB",
       "type": "hard"
     },
     {
       "id": 10,
-      "name": "Axios",
+      "name": "Rest API",
       "type": "hard"
     },
     {
       "id": 11,
-      "name": "Git",
+      "name": "Axios",
       "type": "hard"
     },
     {
       "id": 12,
-      "name": "GitHub",
+      "name": "Git",
       "type": "hard"
     },
     {
       "id": 13,
-      "name": "Mongoose",
+      "name": "GitHub",
       "type": "hard"
     },
     {
       "id": 14,
-      "name": "MERN-stack",
+      "name": "Mongoose",
       "type": "hard"
     },
     {
       "id": 15,
+      "name": "MERN-stack",
+      "type": "hard"
+    },
+    {
+      "id": 16,
       "name": "Agile Methodologies",
       "type": "soft"
     },
     {
-      "id": 16,
+      "id": 17,
       "name": "Constructive Feedback",
       "type": "soft"
     },
     {
-      "id": 17,
+      "id": 18,
       "name": "Analytical Skills",
       "type": "soft"
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "Problem-solving Thinking",
       "type": "soft"
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "Growth mindset",
       "type": "soft"
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "Organization",
       "type": "soft"
     },
     {
-      "id": 21,
+      "id": 22,
       "name": "Attention to detail",
       "type": "soft"
     }
@@ -147,7 +152,14 @@
   ],
   "timelineitems": [
     {
-      "id": 1,
+      "id": 6,
+      "title": "Internship experience",
+      "company": "Ritse (startup in collaboration with Antler)",
+      "date": "March 2023 - April 2024",
+      "description": "Contributed to the development of a dashboard for IT services, using connections with platforms like Slack to improve communication and workflow effectiveness. I collaborated in a small team consisting of two designers and a Senior Developer, mainly focusing on backend development tasks alongside the Senior Developer. Key involvement in the creation of backend components using NestJS, including the desing and implementation of API endpoints and authentication infrastructure through NestJS Passport."
+    },
+    {
+      "id": 5,
       "title": "Full-stack Development Bootcamp",
       "company": "Ironhack",
       "date": "Oct 2023 - Dec 2023",
@@ -155,7 +167,7 @@
       
     },
     {
-      "id": 2,
+      "id": 4,
       "title": "Senior KYC analyst",
       "company": "ING Netherlands",
       "date": "Apr 2018 - Jul 2022",
@@ -169,14 +181,14 @@
       "description": "Customer Service. I was both responsible for advising people about their health insurance or change their health insurance."
     },
     {
-      "id": 4,
+      "id": 2,
       "title": "Master of Science, Criminology",
       "company": "Vrije Universiteit Amsterdam (VU Amsterdam)",
       "date": "Sep 2015 - Apr 2017",
       "description": ""
     },
     {
-      "id": 5,
+      "id": 1,
       "title": "Bachelor of Science, Sociology",
       "company": "University of Groningen",
       "date": "Sep 2012 - Jul 2015",
